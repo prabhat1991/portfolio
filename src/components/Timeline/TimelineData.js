@@ -3,7 +3,7 @@ export const timelineData = [
     {
         company: 'JP Morgan Chase',
         position: 'Assistant Vice President',
-        tenure: '26th Feb, 2014 - 20th Oct, 2016',
+        tenure: 'Nov, 2022 - Till Date',
         logo: {
             url: require('../../Assets/TimeLine/J_P_Morgan_Chase_Logo.png'),
             height: "300px",
@@ -18,7 +18,7 @@ export const timelineData = [
     {
         company: 'Wells Fargo India Pvt. Ltd',
         position: 'Assistant Vice President',
-        tenure: '26th Feb, 2014 - 20th Oct, 2016',
+        tenure: 'May, 2020 - Oct, 2022',
         logo: {
             url: require('../../Assets/TimeLine/wells-fargo-logo.png'),
             height: "200px",
@@ -37,7 +37,7 @@ export const timelineData = [
     {
         company: 'Deloitte USI',
         position: 'Senior Consultant',
-        tenure: '26th Feb, 2014 - 20th Oct, 2016',
+        tenure: 'Feb, 2017 - Apr, 2020',
         logo: {
             url: require('../../Assets/TimeLine/deloitte_logo2.png'),
             height: "300px",
@@ -53,7 +53,7 @@ export const timelineData = [
     {
         company: 'Tata Consultnacy Services',
         position: 'Systems Engineer',
-        tenure: '26th Feb, 2014 - 20th Oct, 2016',
+        tenure: 'Feb, 2014 - Oct, 2016',
         logo: {
             url: require('../../Assets/TimeLine/TCS_logo.png'),
             height: "300px",
