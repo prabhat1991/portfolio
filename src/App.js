@@ -4,6 +4,8 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
+import Timeline from "./components/Timeline/Timeline";
+import Certifications from "./components/Certifications/Certifications";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
 import {
@@ -15,8 +17,7 @@ import {
 import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
-import Timeline from "./components/Timeline/Timeline";
+import "bootstrap/dist/css/bootstrap.min.css"
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -38,6 +39,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/project" element={<Projects />} />
+          <Route path="/certificate" element={<Certifications />} />
           <Route path="/timeline" element={<Timeline />} />
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />

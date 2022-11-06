@@ -1,22 +1,13 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
-  DiJava,
+  DiJava
 } from "react-icons/di";
 import {
-  SiHibernate,
-  SiSpring,
+  SiApachekafka, SiDocker, SiHibernate, SiJenkins, SiKubernetes, SiMongodb, SiNodedotjs,
+  SiReact, SiSelenium, SiSpring,
   SiSpringboot,
-  SiSpringsecurity,
-  SiApachekafka,
-  SiKubernetes,
-  SiDocker,
-  SiJenkins,
-  SiSelenium,
-  SiNodedotjs,
-  SiReact,
-  SiMongodb,
+  SiSpringsecurity
 } from "react-icons/si";
 
 function Techstack() {

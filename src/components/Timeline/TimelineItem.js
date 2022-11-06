@@ -1,6 +1,4 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import Particle from "../Particle";
 import Card from "react-bootstrap/Card";
 //import tcslogo from "../../Assets/TimeLine/TCS_logo.png";
 
