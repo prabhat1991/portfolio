@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.af38e760.css",
+    "main.js": "/portfolio/static/js/main.27eec5af.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ocjp-cert.pdf": "/portfolio/static/media/ocjp-cert.4f32fc9123f08dc0e3d7.pdf",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.adc3b8d69218cb508668.pdf",
+    "static/media/Portfolio-App.png": "/portfolio/static/media/Portfolio-App.a9df119304c0c33965c5.png",
+    "static/media/pk-logo2.png": "/portfolio/static/media/pk-logo2.7296b3978cf2087597e9.png",
+    "static/media/TCS_logo.png": "/portfolio/static/media/TCS_logo.4cb06eaa89d5e494dbae.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/rhce-cert.pdf": "/portfolio/static/media/rhce-cert.496d84b24c1c5b380b26.pdf",
+    "static/media/rhcsa-cert.pdf": "/portfolio/static/media/rhcsa-cert.b4ae930585912e315d17.pdf",
+    "static/media/ccna.jpg": "/portfolio/static/media/ccna.9e8ea3c6832c34536102.jpg",
+    "static/media/J_P_Morgan_Chase_Logo.png": "/portfolio/static/media/J_P_Morgan_Chase_Logo.7e3b917c4a7c0bfbe5aa.png",
+    "static/media/wells-fargo-logo.png": "/portfolio/static/media/wells-fargo-logo.35f29b2367d8685b7193.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/rhcsa.png": "/portfolio/static/media/rhcsa.eff16080abd41bdbc50f.png",
+    "static/media/room-chat.png": "/portfolio/static/media/room-chat.10ff1d4d009db088ef08.png",
+    "static/media/rhce.jpg": "/portfolio/static/media/rhce.d0f1643f06312c3727cd.jpg",
+    "static/media/az-900.png": "/portfolio/static/media/az-900.4b4391210b38a7054f54.png",
+    "static/media/deloitte_logo2.png": "/portfolio/static/media/deloitte_logo2.90030b5365fd166351da.png",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.af38e760.css.map": "/portfolio/static/css/main.af38e760.css.map",
+    "main.27eec5af.js.map": "/portfolio/static/js/main.27eec5af.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af38e760.css",
+    "static/js/main.27eec5af.js"
+  ]
+}
